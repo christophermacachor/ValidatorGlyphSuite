@@ -29,6 +29,7 @@ seal_hash("entangled_state", "20230802_230549.jpg")
 link_to_codex("entangled_state", "Φ669–CM–PRIME–20250814")
 
 ---
+📜 [Codex Ledger – Φ669–CM–PRIME–20250814](codex/Φ669–CM–PRIME–20250814.yaml)
 
 
 
