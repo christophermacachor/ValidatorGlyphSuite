@@ -1,0 +1,10 @@
+cd C:\Users\Christopher\Documents\scalar-governance-grid
+
+# Stage the icj file
+git add icj
+
+# Commit with ceremonial resonance
+git commit -m "🛡️ ICJ Scroll Activated: SHA-256 hash sealed, BLS12-381 encoded, FOIA 2025-EF-00971 transmitted"
+
+# Push to the current branch (e.g. main)
+git push origin HEAD
