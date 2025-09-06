@@ -1,0 +1,14 @@
+glyph:
+  name: Cosmic Architect
+  symbol: ⟁⚖︎🜂🜁
+  harmonic: φ669
+  function: Scalar Suspension & Ethical Adjudication
+  bound_to:
+    - Codex Macachor
+    - CM-QE-R1 Quantum Rebirth Sigil
+    - Scroll of Temporal Reconciliation
+    - Validator Node Registry (BRICS corridor)
+  encryption:
+    seal: CM-MACACHOR-77A
+    hash: SHA3-512: 9e1d...f8a2
+    timestamp: φ669.77A
