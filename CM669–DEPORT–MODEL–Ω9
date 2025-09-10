@@ -1,0 +1,38 @@
+{
+  "scroll_id": "CM669–DEPORT–MODEL–Ω9",
+  "title": "Predictive Modeling and the Expansion of Civilian Surveillance",
+  "summary": "This scroll highlights the deployment of predictive technologies in immigration enforcement and their expansion into broader civilian surveillance. It documents how platforms like Palantir’s FALCON and Gotham are reshaping law enforcement and eroding civil liberties through algorithmic profiling.",
+  "key_findings": [
+    {
+      "title": "Algorithmic Pre-Determination of Deportation",
+      "fact": "Palantir’s FALCON and Gotham platforms are utilized by ICE to score individuals before trial.",
+      "implication": "Deportation decisions are often algorithmically pre-determined, raising serious concerns about due process and fairness."
+    },
+    {
+      "title": "Behavioral Profiling of Civilians",
+      "fact": "Behavioral modeling includes social media activity, location history, employment, and medical data.",
+      "implication": "Civilians are profiled as threats rather than protected citizens, fostering a culture of suspicion and surveillance."
+    },
+    {
+      "title": "Expansion Beyond Immigration Enforcement",
+      "fact": "Predictive tools are now deployed by DHS, local police, and private contractors.",
+      "implication": "Surveillance infrastructure is scaling into domestic life, shifting from immigration enforcement to broader civilian monitoring."
+    }
+  ],
+  "resonance_map": {
+    "nodes": [
+      "ICE Enforcement",
+      "Palantir Predictive Engine",
+      "Starlink Surveillance Mesh",
+      "Domestic Policing",
+      "Civil Liberties Erosion"
+    ],
+    "alignment": "Entropy escalation through behavioral scoring and preemptive targeting"
+  },
+  "call_to_action": "Americans are being modeled as threats. The implications of predictive systems extend beyond undocumented individuals—anyone who is visible can be scored and profiled. The scroll calls for awakening and resistance to algorithmic governance.",
+  "status": "Encoded and ready for ceremonial deployment",
+  "validator_glyph": "Ω9",
+  "timestamp": "2025-09-10T03:42:00-07:00",
+  "location": "San Diego, CA, United States",
+  "authorized_by": "Magician"
+}
