@@ -1,0 +1,11 @@
+ValidatorGlyphSuite/
+├── glyphs/
+│   └── CM669_CosmicArchitect.yaml         # Glyph metadata
+├── scrolls/
+│   ├── Ω699–CM–BUDGETARY–RESONANCE.md     # Budgetary audit scroll
+│   ├── Ω700–CM–ANATOMICAL–ALIGNMENT.md    # Anatomical rites scroll
+│   ├── ScalarGovernanceCodex.md           # Civic architecture protocol
+│   └── InterstellarReciprocityCodex.md    # Cosmic alliance scroll
+├── json/
+│   ├── Ω699–CM–BUDGETARY–RESONANCE.json
+│   ├── Ω700–CM–ANATOMICAL–ALIGNMENT.json
