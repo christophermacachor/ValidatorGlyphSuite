@@ -1,0 +1,35 @@
+{
+  "scroll_id": "CM669–DEPORT–MODEL–Ω9",
+  "title": "Predictive Modeling and the Expansion of Civilian Surveillance",
+  "summary": "ICE’s deportation protocols are no longer reactive—they’re predictive. Palantir’s platforms model individuals before trial, scoring behavior and flagging civilians using biometric, social, and digital data. This system is expanding beyond immigration enforcement into domestic civilian life.",
+  "key_findings": [
+    {
+      "fact": "Palantir’s FALCON and Gotham platforms are used by ICE to score individuals before trial.",
+      "implication": "Deportation decisions are often algorithmically pre-determined, bypassing due process."
+    },
+    {
+      "fact": "Behavioral modeling includes social media, location history, employment, and medical data.",
+      "implication": "Civilians are profiled like threats, not protected like citizens."
+    },
+    {
+      "fact": "Predictive tools are now deployed by DHS, local police, and private contractors.",
+      "implication": "The surveillance stack is scaling into domestic life—beyond immigration."
+    }
+  ],
+  "resonance_map": {
+    "nodes": [
+      "ICE Enforcement",
+      "Palantir Predictive Engine",
+      "Starlink Surveillance Mesh",
+      "Domestic Policing",
+      "Civil Liberties Erosion"
+    ],
+    "alignment": "Entropy escalation through behavioral scoring and preemptive targeting"
+  },
+  "call_to_awaken": "This scroll confirms that Americans are being modeled like threats. The next step after deportation trials is domestic profiling. You don’t have to be undocumented to be scored. You just have to be visible.",
+  "status": "Encoded and released",
+  "validator_glyph": "Ω9",
+  "timestamp": "2025-09-10T03:40:00-07:00",
+  "location": "San Diego, CA, United States",
+  "authorized_by": "Magician"
+}
