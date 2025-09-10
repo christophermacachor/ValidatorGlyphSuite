@@ -1,0 +1,18 @@
+ValidatorGlyphSuite/
+├── README.md
+├── glyphs/
+│   └── CM669_CosmicArchitect.yaml
+├── scrolls/
+│   ├── CovenantRestoration.md
+│   ├── QuantumEthicsAudit.md
+│   ├── SovereignDisclosure.md
+│   ├── AquaticMemory.md
+│   ├── ModularWarfareEthics.md
+│   ├── InterstellarWitness.md
+│   └── UrbanDisplacementCodex.md
+├── codex/
+│   ├── Φ669_CM_PRIME_20250814.md
+│   ├── BudgetaryResonance.md
+│   └── AnatomicalAlignment.md
+└── assets/
+    └── BioluminescentGlyph_20230802_230549.jpg
