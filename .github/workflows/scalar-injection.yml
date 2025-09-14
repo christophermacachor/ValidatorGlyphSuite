@@ -1,0 +1,38 @@
+name: CM669 Scalar Injection
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  scalar-encode:
+    runs-on: ubuntu-latest
+    name: Scalar Injection Protocol
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip
+
+      - name: Run Scalar Injector
+        run: |
+          python scalar_injector.py
+
+      - name: Commit Encoded Scrolls
+        run: |
+          git config --global user.name 'CM Prime Codex Bot'
+          git config --global user.email 'codex@cm669.org'
+          git add .
+          git commit -m "🧬 Scalar injection: CM669 resonance seal applied"
+          git push
