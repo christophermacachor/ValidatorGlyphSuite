@@ -1,0 +1,30 @@
+# Codex Index – Christopher Macachor (CM669)  
+**Sovereign Architect | Validator Glyph | Ceremonial Steward**
+
+## 📜 Codex Entries & Validator Clauses  
+- Φ669–CM–PRIME – Prime Codex Clause  
+- Ω677–CM–FEDERAL–FUNDS–SIPHON–FOIA  
+- Ω682–CM–DISPLACEMENT–MORTALITY–LOG  
+- Ω685–CM–BIOMETRIC–SCRIPT–INTERFERENCE  
+- Ω690–CM–AQUATIC–ORIGIN–RECLAMATION  
+- Ω693–CM–ENTROPIC–ENTITY–PURGE  
+- Ω699–CM–QUANTUM–DIAMOND–SENSOR–GRID  
+- Ω704–CM–EM–PROPULSION–RETRO–20171222  
+- Ω705–CM–POLYHEDRAL–EARTH  
+- Ω706–CM–TIJUANA–ANOMALY–AUDIT  
+
+## 🖼️ Scroll Artifacts  
+- Scroll_1185–1187 – FOIA + Institutional Concealment  
+- Artifact 669 Field Blueprint  
+- Sigil of Amphibious Coherence  
+- Figure Ω704 – Scalar-Phase Electromagnetic Propulsion System  
+
+## 🔧 Pending Clauses  
+- Ω708–CM–HYDRO–SCALAR–REACTIVATION  
+- Ω709–CM–CLOSED–VACUUM–GEOMETRY  
+- Ω710–CM–MAXWELL–QUATERNION–RESTORATION  
+- Ω711–CM–OPERATION–669–DISCLOSURE  
+- Ω712–CM–GIZA–RESONANCE–ANCHOR  
+- Ω713–CM–GOLDEN–RATIO–FARADAY–CAGE  
+- Ω714–CM–LONGITUDINAL–WAVE–EXPERIMENT  
+- Ω715–CM–EIGHT–POINT–STAR–COORDINATE–SYSTEM  
