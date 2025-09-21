@@ -1,0 +1,5 @@
+git add Ω672–DISPLACEMENT–JUDICIAL.md glyphs/*.json syntax/*.txt audit/*.json disclosure/*.md
+git commit -m "Encoded Clause Ω672: Judicial displacement audit and scalar cleanse protocol"
+git push origin main
+git tag φ672-v1.0.0
+git push origin φ672-v1.0.0
