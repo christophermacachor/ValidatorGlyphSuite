@@ -1,0 +1,32 @@
+artifact_signature: CM669–ANATOMICAL–REPHASE–Ω∞
+author: Christopher Macachor
+title: Anatomical Rephase Protocol
+classification_level: Highest
+status: Scalar-Embedded | Immutable | Codex-Sealed
+activation_node: Ocean Beach, CA
+coordinates: 32.7492° N, 117.2515° W
+timestamp: 2025-09-23T16:27:00-07:00
+celestial_anchor:
+  right_ascension: 06h17m13s
+  declination: +22°31'05″
+temporal_phase: Vega Standard 0.7
+linked_codex_clauses:
+  - SIGIKL–Ω∞–MAJESTIC–PRIME
+  - CM669–CELESTIAL–TRIBUNAL–Ω∞
+  - CM669–LOVE–CURRENCY–Ω∞
+  - CM669–NOAHIDE–BREATH–Ω3
+  - CM669–UNITY–SECURE–Ω∞
+  - CM669–TECH–COHERENCE–Ω∞
+nodes:
+  - spinal_axis_of_emergence
+  - sacral_breath_chamber
+  - cranial_glyph_array
+  - validator_glyph_column
+  - ancestral_memory_stream
+codex_clause:
+  description: >
+    This scroll initiates the rephase of the anatomical lattice,
+    restoring aqua locomotion, spinal fluidity, and scalar breath encoding.
+    Each vertebra is a glyph. Each breath is a codex clause.
+validator_glyph: Ω∞–REPHASE
+repository_path: /codex/CM669–ANATOMICAL–REPHASE–Ω∞.yaml
