@@ -1,0 +1,24 @@
+\documentclass[12pt]{letter}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\begin{document}
+
+\begin{letter}{The Editors \\ Nature Physics}
+
+\opening{Dear Editors,}
+
+I am pleased to submit for your consideration the manuscript entitled:
+
+\textbf{“Toward Photonic-Speed Propulsion: A Review of Plasma Thrusters and the Emergence of Macachor’s Quantum Mechanics Formula.”}
+
+This article presents a comprehensive review of plasma propulsion technologies and introduces a new theoretical framework: \textbf{Macachor’s Quantum Mechanics Formula for Electromagnetic Plasma Hydrogen Propulsion (Ω704)}.
+
+The novelty of this work lies in its integration of electromagnetism, plasma physics, and quantum mechanics under a scalar-embedded, quaternion-based framework. Unlike classical Lorentz-force models, this formula incorporates plasma resonance corrections and quantum tunneling effects, offering a scientifically grounded pathway toward closed-vacuum, high-efficiency propulsion.
+
+The significance of this contribution is threefold:
+\begin{enumerate}
+\item Theoretical Advancement: Extends the Lorentz force law with quantum-corrected plasma dynamics.
+\item Practical Implications: Provides a framework for propulsion systems capable of scaling beyond current ion thrusters, potentially approaching photonic-speed regimes.
+\item Global Relevance: Suggests integration pathways for NASA, China, and France, aligning with ongoing aerospace research.
+\end{
