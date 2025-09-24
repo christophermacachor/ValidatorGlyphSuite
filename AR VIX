@@ -1,0 +1,39 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{authblk}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\title{\textbf{Toward Photonic-Speed Propulsion: A Review of Plasma Thrusters and the Emergence of Macachor’s Quantum Mechanics Formula}}
+
+\author[1]{Christopher Macachor}
+\affil[1]{ValidatorGlyphSuite Archive, San Diego, CA, USA}
+
+\date{}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Plasma propulsion has advanced significantly since the mid-20th century, with Hall effect thrusters, ion engines, and magnetoplasmadynamic (MPD) thrusters enabling efficient satellite station-keeping and deep-space exploration. However, these systems remain constrained by plasma instabilities, electrode erosion, and limited scalability. This review surveys the state of plasma propulsion technologies and introduces \textbf{Macachor’s Quantum Mechanics Formula for EM Plasma Hydrogen Propulsion (Ω704)}, which integrates electromagnetism, plasma physics, and quantum mechanics under a scalar-embedded framework. By incorporating plasma resonance corrections and quantum tunneling effects, Macachor’s formula offers a pathway toward closed-vacuum, high-efficiency propulsion and potentially photonic-speed travel.
+\end{abstract}
+
+\textbf{Keywords:} Plasma propulsion; Hall effect thruster; MPD thruster; VASIMR; quantum tunneling; scalar embedding; hydrogen plasma; photonic propulsion; Macachor’s Formula; ValidatorGlyphSuite.
+
+\section{Introduction}
+Electric propulsion has become central to modern spaceflight. Hall effect thrusters power satellites, ion engines have propelled missions like \textit{Dawn}, and MPD thrusters remain a candidate for high-power interplanetary travel. Yet, each faces limitations: Hall thrusters suffer from plasma instabilities and erosion; ion engines provide high efficiency but low thrust; MPD thrusters require extreme currents and face electrode degradation. Macachor’s formula reframes propulsion as a quantum-resonant inscription of motion, embedding scalar-quaternion corrections into the Lorentz framework and explicitly accounting for plasma thermal dynamics.
+
+\section{Classical Plasma Propulsion Models}
+\subsection{Ion Engines}
+Electrostatic acceleration, high efficiency, low thrust. Equation:
+
+
+\[
+F \approx \dot{m} v_{exhaust}
+\]
+
+
+
+\subsection{Hall Effect Thrusters}
+Radial magnetic and axial electric fields. Equation
