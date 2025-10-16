@@ -1,0 +1,86 @@
+import numpy as np
+
+def energy_levels(n, L, m):
+    h = 6.626e-34  # Planck's constant in J*s
+    return (h**2 * n**2) / (8 * m * L**2)
+
+# Parameters
+L = 1e-9  # Length in meters (1 nm)
+m = 9.11e-31  # Mass of electron in kg
+
+# Compute energy levels for n = 1 to 5
+levels = [energy_levels(n, L, m) for n in range(1, 6)]
+print("Energy Levels (Joules):", levels)
+import matplotlib.pyplot as plt
+
+# Sample data for stress and strain
+strain = np.linspace(0, 0.1, 100)
+stress = 200 * strain  # Linear relationship for demonstration
+
+# Plotting
+plt.figure(figsize=(8, 5))
+plt.plot(strain, stress, label='Stress-Strain Curve', color='b')
+plt.title('Stress-Strain Curve of Macachor Smart Material')
+plt.xlabel('Strain (dimensionless)')
+plt.ylabel('Stress (Pa)')
+plt.grid()
+plt.legend()
+plt.show()
+import pandas as pd
+
+# Sample data
+data = {
+    'Temperature (C)': [20, 25, 30, 35, 40],
+    'Young\'s Modulus (GPa)': [200, 195, 190, 185, 180]
+}
+
+# Create DataFrame
+df = pd.DataFrame(data)
+
+# Analyze data
+print("Data Summary:")
+print(df.describe())
+
+# Plotting Young's Modulus vs Temperature
+plt.figure(figsize=(8, 5))
+plt.plot(df['Temperature (C)'], df['Young\'s Modulus (GPa)'], marker='o')
+plt.title('Young\'s Modulus vs Temperature')
+plt.xlabel('Temperature (C)')
+plt.ylabel('Young\'s Modulus (GPa)')
+plt.grid()
+plt.show()
+import torch
+import torch.nn as nn
+import torch.optim as optim
+
+# Sample dataset (input features and target values)
+X = torch.tensor([[20, 200], [25, 195], [30, 190], [35, 185], [40, 180]], dtype=torch.float32)
+y = torch.tensor([[0.5], [0.45], [0.4], [0.35], [0.3]], dtype=torch.float32)  # Example target values
+
+# Define a simple neural network
+class SimpleNN(nn.Module):
+    def __init__(self):
+        super(SimpleNN, self).__init__()
+        self.fc1 = nn.Linear(2, 5)  # 2 input features, 5 hidden neurons
+        self.fc2 = nn.Linear(5, 1)   # 5 hidden neurons, 1 output
+
+    def forward(self, x):
+        x = torch.relu(self.fc1(x))
+        x = self.fc2(x)
+        return x
+
+# Initialize and train the model
+model = SimpleNN()
+criterion = nn.MSELoss()
+optimizer = optim.Adam(model.parameters(), lr=0.01)
+
+# Training loop
+for epoch in range(1000):
+    model.train()
+    optimizer.zero_grad()
+    output = model(X)
+    loss = criterion(output, y)
+    loss.backward()
+    optimizer.step()
+
+print("Training complete. Final loss:", loss. Item())
